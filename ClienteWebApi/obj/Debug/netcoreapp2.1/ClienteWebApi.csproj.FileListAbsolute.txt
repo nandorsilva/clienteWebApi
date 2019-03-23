@@ -1,0 +1,14 @@
+D:\Projetos\container\ClienteWebApi\bin\Debug\netcoreapp2.1\ClienteWebApi.deps.json
+D:\Projetos\container\ClienteWebApi\bin\Debug\netcoreapp2.1\ClienteWebApi.runtimeconfig.json
+D:\Projetos\container\ClienteWebApi\bin\Debug\netcoreapp2.1\ClienteWebApi.runtimeconfig.dev.json
+D:\Projetos\container\ClienteWebApi\bin\Debug\netcoreapp2.1\ClienteWebApi.dll
+D:\Projetos\container\ClienteWebApi\bin\Debug\netcoreapp2.1\ClienteWebApi.pdb
+D:\Projetos\container\ClienteWebApi\obj\Debug\netcoreapp2.1\ClienteWebApi.csprojAssemblyReference.cache
+D:\Projetos\container\ClienteWebApi\obj\Debug\netcoreapp2.1\ClienteWebApi.csproj.CoreCompileInputs.cache
+D:\Projetos\container\ClienteWebApi\obj\Debug\netcoreapp2.1\ClienteWebApi.RazorAssemblyInfo.cache
+D:\Projetos\container\ClienteWebApi\obj\Debug\netcoreapp2.1\ClienteWebApi.RazorAssemblyInfo.cs
+D:\Projetos\container\ClienteWebApi\obj\Debug\netcoreapp2.1\ClienteWebApi.AssemblyInfoInputs.cache
+D:\Projetos\container\ClienteWebApi\obj\Debug\netcoreapp2.1\ClienteWebApi.AssemblyInfo.cs
+D:\Projetos\container\ClienteWebApi\obj\Debug\netcoreapp2.1\ClienteWebApi.RazorTargetAssemblyInfo.cache
+D:\Projetos\container\ClienteWebApi\obj\Debug\netcoreapp2.1\ClienteWebApi.dll
+D:\Projetos\container\ClienteWebApi\obj\Debug\netcoreapp2.1\ClienteWebApi.pdb
