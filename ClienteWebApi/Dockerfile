@@ -1,4 +1,5 @@
 ﻿FROM microsoft/dotnet:sdk AS build-env
+MAINTAINER Fernando Silva
 WORKDIR /app
 
 # Copy everything and build

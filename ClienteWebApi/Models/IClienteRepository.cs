@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClienteWebApi.Models
 {
-    public interface IClienteRepository
-    {
-        Task<Cliente> Buscar(string id);
-        Task Criar(Cliente cliente);
-    }
+        public interface IClienteRepository
+        {
+            Task<Cliente> Buscar(string id);
+            Task Criar(Cliente cliente);
+        }
 }

@@ -14,8 +14,7 @@ namespace ClienteWebApi.Models
         public ClienteRepository(IClienteContext context)
         {
             _context = context;
-        }
-       
+        }       
 
         public Task<Cliente> Buscar(string id)
         {
@@ -26,7 +25,6 @@ namespace ClienteWebApi.Models
                     .Find(filter)
                     .FirstOrDefaultAsync();
         }
-
         
         public async Task Criar(Cliente cliente)
         {
